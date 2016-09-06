@@ -1,0 +1,7 @@
+{
+	"description": "Simple example of how to internationalize iOS Info.plist strings",
+	"min_platform_version": "v2.5.1",
+	"namespace": "example_i8n",
+	"platform_version": "v2.5.1",
+	"version": "0.1"
+}

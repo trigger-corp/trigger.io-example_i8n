@@ -1,0 +1,23 @@
+[
+       { "do": { "ios_add_i8n_plist": {
+           "lang": "de",
+           "key": "CFBundleDisplayName",
+           "string": "Zungenbrecher"
+       } } },
+       { "do": { "ios_add_i8n_plist": {
+           "lang": "de",
+           "key": "NSCalendarsUsageDescription",
+           "string": "Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid."
+       } } },
+
+       { "do": { "ios_add_i8n_plist": {
+           "lang": "fr",
+           "key": "CFBundleDisplayName",
+           "string": "Phrase difficile à prononcer"
+       } } },
+       { "do": { "ios_add_i8n_plist": {
+           "lang": "fr",
+           "key": "NSCalendarsUsageDescription",
+           "string": "Ces cerises sont si sûres qu'on ne sait pas si c'en sont."
+       } } }
+]
