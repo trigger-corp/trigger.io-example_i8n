@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="io_trigger_dialog_capture_camera_description">Bildaufnahme durch Kamera</string>
+	<string name="io_trigger_dialog_capture_source_camera">Kamera</string>
+	<string name="io_trigger_dialog_capture_source_gallery">Galerie</string>
+	<string name="io_trigger_dialog_capture_pick_source">Wählen Sie eine Quelle aus</string>
+</resources>

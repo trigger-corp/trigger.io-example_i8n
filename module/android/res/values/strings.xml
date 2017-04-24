@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="io_trigger_dialog_capture_camera_description">Image capture by camera custom</string>
+	<string name="io_trigger_dialog_capture_source_camera">Camera custom</string>
+	<string name="io_trigger_dialog_capture_source_gallery">Gallery custom</string>
+</resources>

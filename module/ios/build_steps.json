@@ -1,23 +1,52 @@
 [
-       { "do": { "ios_add_i8n_plist": {
-           "lang": "de",
-           "key": "CFBundleDisplayName",
-           "string": "Zungenbrecher"
-       } } },
-       { "do": { "ios_add_i8n_plist": {
-           "lang": "de",
-           "key": "NSCalendarsUsageDescription",
-           "string": "Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid."
-       } } },
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "CFBundleDisplayName",
+		"string": "Zungenbrecher"
+	} } },
 
-       { "do": { "ios_add_i8n_plist": {
-           "lang": "fr",
-           "key": "CFBundleDisplayName",
-           "string": "Phrase difficile à prononcer"
-       } } },
-       { "do": { "ios_add_i8n_plist": {
-           "lang": "fr",
-           "key": "NSCalendarsUsageDescription",
-           "string": "Ces cerises sont si sûres qu'on ne sait pas si c'en sont."
-       } } }
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "NSCalendarsUsageDescription",
+		"string": "Blaukraut bleibt Blaukraut und Brautkleid bleibt Brautkleid."
+	} } },
+
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "io_trigger_dialog_cancel",
+		"string": "Abbrechen"
+	} } },
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "io_trigger_dialog_capture_camera_description",
+		"string": "Bildaufnahme durch Kamera"
+	} } },
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "io_trigger_dialog_capture_source_camera",
+		"string": "Kamera"
+	} } },
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "io_trigger_dialog_capture_source_gallery",
+		"string": "Galerie"
+	} } },
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "de",
+		"key": "io_trigger_dialog_capture_pick_source",
+		"string": "Wählen Sie eine Quelle aus"
+	} } },
+
+
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "fr",
+		"key": "CFBundleDisplayName",
+		"string": "Phrase difficile à prononcer"
+	} } },
+
+	{ "do": { "ios_add_i8n_plist": {
+		"lang": "fr",
+		"key": "NSCalendarsUsageDescription",
+		"string": "Ces cerises sont si sûres qu'on ne sait pas si c'en sont."
+	} } }
 ]
